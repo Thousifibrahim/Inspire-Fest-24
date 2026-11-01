@@ -1,5 +1,7 @@
 # Inspire-2024
 
+![stack: HTML](https://img.shields.io/badge/stack-HTML-E34F26) ![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6) ![stack: JavaScript](https://img.shields.io/badge/stack-JavaScript-F7DF1E)
+
 College Fest Info Page
 
 ## Overview
